@@ -15,7 +15,7 @@ Welcome to the official GitHub organization for the **Capstone and IT Projects**
 ### 2. **Submission Workflow**  
 ```bash
 # Clone the repository (replace with actual repo URL)  
-git clone https://github.com/GU-Final-Year-Project-2025/final-20255.git  
+git clone https://github.com/GU-Final-Year-Project-2025/Final-20255.git  
 
 # Create a branch for your work  
 git checkout -b yourname-assignment1  
